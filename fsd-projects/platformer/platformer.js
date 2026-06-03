@@ -43,7 +43,7 @@ createPlatform(1200, 200, 100, 300, "lightblue");
 createCannon("right", 250, 2000);
 createCannon("right", 800, 0);
 createCannon("bottom", 1150, 2000);
-createCollectable("diamond", 500, 170, 0, 0);
+createCollectable("diamond", 450, 170, 0.5, 1);
 
     // TODO 3 - Create Collectables
 
