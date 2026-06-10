@@ -37,7 +37,6 @@ createPlatform(350, 480, 20, 290)
 createPlatform(650, 500, 10, 10, "rgb(167, 217, 252)");
 createPlatform(890, 400, 10, 10, "rgb(167, 217, 252)");
 createPlatform(1125, 300, 10, 10, "rgb(167, 217, 252)");
-createPlatform(1200, 200, 20, 540, "lightblue");
 createPlatform(1200, 650, 100, 20, "lime");
 createPlatform(1200, 200, 100, 250, "lightblue");
 
